@@ -2,6 +2,11 @@
 
 ## Table of Contents
 
+-   [typescript-playground](#typescript-playground)
+    -   [Table of Contents](#table-of-contents)
+    -   [Getting Start](#getting-start)
+    -   [Build Process](#build-process)
+
 ## Getting Start
 
 > **IMPORTANT**
@@ -25,7 +30,7 @@
 > npm run watch
 > ```
 
-## build process
+## Build Process
 
 ```mermaid
 
